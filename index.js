@@ -28,7 +28,8 @@ function iLoveTheBeatles(number) {
   }
   
   do {
-    return("")
+    return("I love the Beatles!");
   }
-  
+  while (incrementVariable()<15);
+
 }
