@@ -27,7 +27,7 @@ function iLoveTheBeatles(number) {
   }
   
   do {
-    z.push("I love the Beatles!");
+    return("I love the Beatles!");
   }
   while (incrementVariable()<15);
 }
