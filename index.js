@@ -20,6 +20,15 @@ function johnLennonFacts (facts){
 
 function iLoveTheBeatles(number) {
   var z = [];
+  var i = 0;
   
+  function incrementVariable(){
+    i++;
+    return i;
+  }
+  
+  do {
+    return("")
+  }
   
 }
